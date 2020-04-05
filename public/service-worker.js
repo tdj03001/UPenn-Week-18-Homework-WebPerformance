@@ -4,6 +4,7 @@ const FILES_TO_CACHE = [
   "/styles.css",
   "/index.js",
   "/manifest.webmanifest",
+  "/db.js",
   "/icons/icon-169x169.png",
   "/icons/icon-452x452.png",
 ];
