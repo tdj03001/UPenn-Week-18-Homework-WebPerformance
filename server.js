@@ -15,7 +15,7 @@ app.use(express.json());
 
 app.use(express.static("public"));
 
-mongoose.connect("mongodb://<dbuser>:<dbpassword>@ds145158.mlab.com:45158/heroku_5ws4jvbv", {
+mongoose.connect("mongodb://tdj03001:101%Sure!!@ds145158.mlab.com:45158/heroku_5ws4jvbv", {
   useNewUrlParser: true,
   useFindAndModify: false
 });
