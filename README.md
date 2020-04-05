@@ -12,7 +12,7 @@ Users will create a entry by entering a name for the transaction, the amount of 
 
 # Screenshot
 
-![Screenshot](/icons/Screenshot-of-app.png)
+![Screenshot](./public/icons/Screenshot-of-app.png)
 
 
 # Live site (under construction)
