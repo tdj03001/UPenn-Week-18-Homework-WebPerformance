@@ -15,13 +15,14 @@ app.use(express.json());
 
 app.use(express.static("public"));
 
-mongoose.connect("mongodb://localhost/budget", {
+mongoose.connect("mongodb://<dbuser>:<dbpassword>@ds145158.mlab.com:45158/heroku_5ws4jvbv", {
   useNewUrlParser: true,
   useFindAndModify: false
 });
 
 // routes
 app.use(require("./routes/api.js"));
+app.use(require("./routes/htmlRoutes.js"))
 
 app.listen(PORT, () => {
   console.log(`App running on port ${PORT}!`);
