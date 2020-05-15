@@ -17,7 +17,7 @@ Users will create a entry by entering a name for the transaction, the amount of 
 
 # Live site 
 
-https://stark-badlands-15059.herokuapp.com/
+https://ispenthowmuch.herokuapp.com/
 
 # GitHub Repo
 
