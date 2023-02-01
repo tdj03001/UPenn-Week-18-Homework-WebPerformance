@@ -27,7 +27,7 @@
     "express": "^4.17.1",
     "fs": "0.0.1-security",
     "lite-server": "^2.5.3",
-    "mongoose": "^5.5.15",
+    "mongoose": "^5.13.15",
     "morgan": "^1.9.1",
     "path": "^0.12.7",
     "request": "^2.79.0"
